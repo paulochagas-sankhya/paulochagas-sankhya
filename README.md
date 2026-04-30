@@ -50,30 +50,71 @@
 
 Na visão geral abaixo você encontrará minha experiência profissional mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Empresa" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png"/>]()
+[<img align="left" height="94px" width="94px" alt="Sankhya" src="https://media.licdn.com/dms/image/C4D0BAQF5kGkqS0Sankhya-logo/0/1631360000000?e=9999999999&v=beta&t=abc"/>](https://www.sankhya.com.br/)
 
-**Desenvolvedor Sankhya** \
-**Empresa Atual** • Full-time \
-Linguagens & Tecnologias: `Java`, `SQL`, `JavaScript`, `PL/SQL`, `APIs REST`\
-Projetos em destaque: Customizações no ERP Sankhya, Integrações com sistemas externos, Otimização de processos empresariais  
+**Desenvolvedor de Software** \
+**Sankhya Gestão de Negócios** • Tempo integral  
+📍 Curitiba, Paraná, Brasil  
+🗓️ out de 2025 - o momento  
+
+Tecnologias: `Java`, `SQL`, `JavaScript`, `APIs REST`, `ERP Sankhya`  
+Atuação: Desenvolvimento e customização de soluções dentro do ecossistema Sankhya, integrações entre sistemas e otimização de processos empresariais.  
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Empresa" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"/>]()
+[<img align="left" height="94px" width="94px" alt="Metalcore" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png"/>]()
 
-**Desenvolvedor de Sistemas** \
-**Empresa Anterior** • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node.js`, `HTML`, `CSS`\
-Projetos em destaque: Desenvolvimento de sistemas internos, APIs e automações  
+**Gerente de TI** \
+**Metalcore Indústria e Comércio de Metais SPE S/A** • Tempo integral  
+📍 Brasil  
+🗓️ mai de 2023 - set de 2025  
+
+Tecnologias: `Gestão de TI`, `Infraestrutura`, `Sistemas Corporativos`, `Banco de Dados`  
+Atuação: Liderança da área de TI, gestão de equipe, implantação de soluções tecnológicas e melhoria de processos internos.  
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Freelancer" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png"/>]()
+**Analista de TI** \
+**Metalcore Indústria e Comércio de Metais SPE S/A**  
+📍 Cajati, São Paulo, Brasil  
+🗓️ fev de 2022 - mai de 2023  
 
-**Freelancer / Projetos Independentes** \
-Remoto \
-Linguagens & Tecnologias: `Java`, `SQL`, `APIs`, `Integrações` \
-Projetos em destaque: Sistemas personalizados, integrações entre plataformas e automações de processos  
+Atuação: Suporte técnico, manutenção de sistemas, automação de processos e apoio à infraestrutura de TI.  
+<br/>
+
+**Auxiliar de Recursos Humanos** \
+**Metalcore Indústria e Comércio de Metais SPE S/A**  
+🗓️ ago de 2021 - fev de 2022  
+
+Atuação: Apoio em rotinas administrativas e processos de RH.  
+<br/>
+
+**Auxiliar de Logística** \
+**Metalcore Indústria e Comércio de Metais SPE S/A**  
+🗓️ abr de 2021 - ago de 2021  
+
+Atuação: Controle de estoque, organização logística e suporte operacional.  
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="FertiCore" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"/>]()
+
+**Gerente de TI** \
+**FertiCore Fertilizantes** • Tempo integral  
+📍 Jacupiranga, São Paulo, Brasil  
+🗓️ mai de 2023 - set de 2025  
+
+Atuação: Gestão de TI, suporte a sistemas corporativos e implementação de melhorias tecnológicas.  
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Outlier" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png"/>](https://outlier.ai/)
+
+**Especialista em Treinamento de IA** \
+**Outlier** • Autônomo  
+📍 Remoto (EUA)  
+🗓️ dez de 2024 - mai de 2025  
+
+Tecnologias: `Inteligência Artificial`, `Machine Learning`, `Treinamento de Modelos`  
+Atuação: Treinamento e validação de modelos de IA, contribuindo para melhoria de sistemas inteligentes.  
 <br/>
 <br/>
 
-📎 Para mais detalhes sobre minha experiência, projetos e certificações:  
-👉 https://www.linkedin.com/in/SEU-LINKEDIN
+📎 Para mais detalhes sobre minha trajetória profissional:  
+👉 https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/paulo-chagas-de-castro-filho
